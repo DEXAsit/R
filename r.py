@@ -66,7 +66,7 @@ elif st.session_state.page == "note":
     )
     
     st.write(
-        "My intentions were purely just because I think you're a great person. "
+        "My intentions were purely just because I believe you're a great person. "
         "There is absolutely no pressure here, "
         "I am completely stepping back to respect your "
         "relationship and your boundaries."
