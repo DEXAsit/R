@@ -100,5 +100,5 @@ elif st.session_state.page == "note":
     else:
         st.success("Thank you! Your message has been saved privately.")
     
-    st.markdown("--W")
+    st.markdown("---")
     st.markdown("<p style='text-align: center; color: gray;'>Take care,<br><b>Asit 'Dexter' Pradhan</b> ✨</p>", unsafe_allow_html=True)
